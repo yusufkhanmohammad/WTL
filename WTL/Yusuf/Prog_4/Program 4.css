@@ -1,0 +1,11 @@
+
+students {font-size:90%; margin:0.5em; font-family: Georgia; display:block}
+student {display:block; border: 1px solid silver; margin:0.5em; padding:0.5em; background-color:black;}
+name, srn, branch, college {display:block}
+name {color:yellow; text-decoration: underline}
+srn {color:red}
+branch {color:Violet}
+college {color:white}
+
+student#p4 {text-align:right}
+student[class=special] {background-color:blue}

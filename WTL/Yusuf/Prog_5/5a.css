@@ -1,0 +1,28 @@
+RU  
+	      { 
+              display:block;  
+              border: 1px solid silver; 
+              margin:0.5em; 
+              padding:0.5em;  
+              background-color:whitesmoke;
+	       
+              } 
+
+title { 
+      display:block; 
+      font-weight:bolder; 
+      text-align:center; 
+      font-size:30px; 
+      background-color: green; 
+      color: white; 
+      } 
+a{text-align:center;color:red;text-decoration: underline; font-weight:bolder; font-size:20px;display:block;font-style:italic;}
+b{text-align:center;color:orange;text-decoration: underline; font-weight:bolder; font-size:20px;display:block;font-style:italic;}
+c{text-align:center;color:yellow;text-decoration: underline; font-weight:bolder; font-size:20px;display:block;font-style:italic;}
+d{text-align:center;color:green;text-decoration: underline; font-weight:bolder; font-size:20px;display:block;font-style:italic;}
+e{text-align:center;display:block;color:cyan;font-style:italic;text-decoration: underline; font-weight:bolder; font-size:20px;}
+f{text-align:center;color:blue;text-decoration: underline; font-weight:bolder; font-size:20px;display:block;font-style:italic;}
+g{text-align:center;color:purple;text-decoration: underline; font-weight:bolder; font-size:20px;display:block;font-style:italic;}
+s{text-align:center;display:block;color:pink;font-style:italic;text-decoration: underline; font-weight:bolder; font-size:20px;}
+i{text-align:center;display:block;color:gray;font-style:italic;text-decoration: underline; font-weight:bolder; font-size:20px;}
+o{text-align:center;display:block;color:brown;font-style:italic;text-decoration: underline; font-weight:bolder; font-size:20px;}

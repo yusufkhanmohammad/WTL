@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/css" href="5a.css" ?>
+<RU>
+ <title>Hello! WELCOME TO HOPS!</title>
+ <a>Books</a><br />
+ <b>Stationaries</b><br />
+ <c>Tables,stands</c><br />
+ <d>Laptops</d><br />
+ <e>Smartphones/Tablets</e><br />
+ <f>Clothing</f><br />
+ <g>Bags</g><br />
+ <s>Shoes </s><br />
+ <i>Watches/Clocks</i><br />
+ <o>Home Appliances</o><br />
+</RU>
